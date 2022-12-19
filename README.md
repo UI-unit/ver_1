@@ -87,3 +87,7 @@ https://react-bootstrap.github.io/getting-started/introduction
 2. 내용<br>
 - 커스텀 훅 참고했던 페이지<br>
 https://levelup.gitconnected.com/react-custom-hook-useaxios-689fe5a12045
+
+
+## [8차이후]
+https://github.com/UI-unit/first-meet-react
