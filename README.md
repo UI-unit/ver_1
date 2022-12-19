@@ -61,13 +61,19 @@ https://www.youtube.com/watch?v=05uFo_-SGXU&list=PLZKTXPmaJk8J_fHAzPLH8CJ_HO_M33
  
  
 2. 내용 <br>
-news api 연동(newsapi.org에서 제공하는 api는 localhost에서만 키 요청 가능) <br> <br>
-비동기와 promise, async/await 개념 이해  <br>
-styled-component 사용 <br>
-리액트 라우터 (https://spice-decade-026.notion.site/4d1b6567fbb54a05b97e4a3bfefdb953)  <br>
-noopener, noreferrer https://joshua-dev-story.blogspot.com/2020/12/html-rel-noopener-noreferrer.html <br>
-https://velog.io/@soonmac/React-News-API를-연동하여-뉴스-뷰어-만들기 => 상세 포스팅 <br>
-https://velog.io/@leehyemimi  => 포스팅
+- news api 연동(newsapi.org에서 제공하는 api는 localhost에서만 키 요청 가능) <br> 
+
+- 비동기와 promise, async/await 개념 이해  <br>
+
+- styled-component 사용 <br>
+
+- 리액트 라우터 (https://spice-decade-026.notion.site/4d1b6567fbb54a05b97e4a3bfefdb953)  <br>
+
+- noopener, noreferrer https://joshua-dev-story.blogspot.com/2020/12/html-rel-noopener-noreferrer.html <br>
+
+- https://velog.io/@soonmac/React-News-API를-연동하여-뉴스-뷰어-만들기 => 상세 포스팅 <br>
+
+- https://velog.io/@leehyemimi  => 포스팅
 
 
 ## [7차] 영화 뷰어 UI 만들기 (2022.10.05)
@@ -76,10 +82,14 @@ https://velog.io/@leehyemimi  => 포스팅
 https://nomadcoders.co/react-for-beginners
 
 2. 내용<br>
-movies api 연동<br>
-비동기와 promise, async/await 개념 이해 <br>
-https://github.com/LIMON029/react-for-beginners => 참고 github<br>
-https://blog.naver.com/tjwls031/222892315703  => 포스팅
+
+- movies api 연동<br>
+
+- 비동기와 promise, async/await 개념 이해 <br>
+
+- https://github.com/LIMON029/react-for-beginners => 참고 github<br>
+
+- https://blog.naver.com/tjwls031/222892315703  => 포스팅
 
 
 ## [8차] 영화 뷰어 UI 만들기(React Bootstrap 적용) (2022.10.12)
@@ -87,5 +97,6 @@ https://blog.naver.com/tjwls031/222892315703  => 포스팅
 https://react-bootstrap.github.io/getting-started/introduction
 
 2. 내용<br>
-커스텀 훅 참고했던 페이지
+
+- 커스텀 훅 참고했던 페이지<br>
 https://levelup.gitconnected.com/react-custom-hook-useaxios-689fe5a12045
