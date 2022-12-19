@@ -1,5 +1,5 @@
 # 2022 리액트 스터디
-## - ver_1
+# - ver_1
 
 ## [1차] todollist 만들기 Ⅰ (2022.08.23)
 1. 과제 <br>
@@ -90,5 +90,5 @@ https://react-bootstrap.github.io/getting-started/introduction
 https://levelup.gitconnected.com/react-custom-hook-useaxios-689fe5a12045
 
 
-## [2022 - ver_2 (소플의 처음 만난 리액트)]
+# - ver_2 (소플의 처음 만난 리액트)
 https://github.com/UI-unit/first-meet-react
