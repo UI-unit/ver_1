@@ -75,7 +75,7 @@ https://velog.io/@leehyemimi  => 포스팅
 1. 과제<br>
 https://nomadcoders.co/react-for-beginners
 
-2. 내용
+2. 내용<br>
 movies api 연동<br>
 비동기와 promise, async/await 개념 이해 <br>
 https://github.com/LIMON029/react-for-beginners => 참고 github<br>
@@ -86,6 +86,6 @@ https://blog.naver.com/tjwls031/222892315703  => 포스팅
 1. 과제<br>
 https://react-bootstrap.github.io/getting-started/introduction
 
-2. 내용
+2. 내용<br>
 커스텀 훅 참고했던 페이지
 https://levelup.gitconnected.com/react-custom-hook-useaxios-689fe5a12045
