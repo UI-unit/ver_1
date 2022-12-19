@@ -1,6 +1,6 @@
 # 2022 - ver_1
 
-## [1차] todollist 만들기 (2022.08.23)
+## [1차] todollist 만들기 Ⅰ (2022.08.23)
 1. 과제 <br>
 https://thebook.io/080203/ch10/<br>
 
@@ -11,7 +11,7 @@ https://thebook.io/080203/ch10/<br>
 이초이 : https://github.com/Cho-i/react-todo<br>
 
 
-## [2차] todollist 만들기 (2022.08.31)
+## [2차] todollist 만들기 Ⅱ (2022.08.31)
 1. 과제 [기능 2개이상 추가 / 성능 최적화 (안한사람에 한) ] <br>
 https://thebook.io/080203/ch10/ https://thebook.io/080203/ch11/
 
@@ -23,7 +23,7 @@ https://thebook.io/080203/ch10/ https://thebook.io/080203/ch11/
 김나영 : https://github.com/KNY-STUDY/react/tree/main/unit_study/todo-app
 
 
-## [3차] 단어장 만들기 (2022.09.07)
+## [3차] 단어장 만들기 Ⅰ (2022.09.07)
 1. 과제 (1강~10강)<br>
  https://www.youtube.com/watch?v=05uFo_-SGXU&list=PLZKTXPmaJk8J_fHAzPLH8CJ_HO_M33e7-&index=2<br>
 
@@ -36,16 +36,14 @@ https://thebook.io/080203/ch10/ https://thebook.io/080203/ch11/
  
 2. 내용 <br>
 - gh-pages-이슈<br>
-https://velog.io/@chooomu/React-react-router-적용-후-gh-pages-이슈<br><br>
-
+https://velog.io/@chooomu/React-react-router-적용-후-gh-pages-이슈
 - gh-pages-github연결<br>
-https://velog.io/@leehyemimi/gh-pages-github<br>
+https://velog.io/@leehyemimi/gh-pages-github
 
 
-## [4차] 단어장 만들기 (2022.09.14)
+## [4차] 단어장 만들기 Ⅱ (2022.09.14)
 1. 과제 [11강 ~ 16강 (17강 선택) / 단어장 완성] <br>
 https://www.youtube.com/watch?v=05uFo_-SGXU&list=PLZKTXPmaJk8J_fHAzPLH8CJ_HO_M33e7-&index=2<br>
-
 
 2. 작업물<br>
 김영훈 : https://github.com/yellowk4/ https://yellowk4.github.io/voca/ <br>
@@ -61,20 +59,13 @@ https://www.youtube.com/watch?v=05uFo_-SGXU&list=PLZKTXPmaJk8J_fHAzPLH8CJ_HO_M33
  
  
 2. 내용 <br>
-- news api 연동(newsapi.org에서 제공하는 api는 localhost에서만 키 요청 가능) <br> 
-
-- 비동기와 promise, async/await 개념 이해  <br>
-
-- styled-component 사용 <br>
-
-- 리액트 라우터 (https://spice-decade-026.notion.site/4d1b6567fbb54a05b97e4a3bfefdb953)  <br>
-
-- noopener, noreferrer https://joshua-dev-story.blogspot.com/2020/12/html-rel-noopener-noreferrer.html <br>
-
-- https://velog.io/@soonmac/React-News-API를-연동하여-뉴스-뷰어-만들기 => 상세 포스팅 <br>
-
+- news api 연동(newsapi.org에서 제공하는 api는 localhost에서만 키 요청 가능) 
+- 비동기와 promise, async/await 개념 이해 
+- styled-component 사용 
+- 리액트 라우터 (https://spice-decade-026.notion.site/4d1b6567fbb54a05b97e4a3bfefdb953)  
+- noopener, noreferrer https://joshua-dev-story.blogspot.com/2020/12/html-rel-noopener-noreferrer.html 
+- https://velog.io/@soonmac/React-News-API를-연동하여-뉴스-뷰어-만들기 => 상세 포스팅 
 - https://velog.io/@leehyemimi  => 포스팅
-
 
 ## [7차] 영화 뷰어 UI 만들기 (2022.10.05)
 
@@ -83,12 +74,9 @@ https://nomadcoders.co/react-for-beginners
 
 2. 내용<br>
 
-- movies api 연동<br>
-
-- 비동기와 promise, async/await 개념 이해 <br>
-
-- https://github.com/LIMON029/react-for-beginners => 참고 github<br>
-
+- movies api 연동
+- 비동기와 promise, async/await 개념 이해
+- https://github.com/LIMON029/react-for-beginners => 참고 github
 - https://blog.naver.com/tjwls031/222892315703  => 포스팅
 
 
@@ -97,6 +85,5 @@ https://nomadcoders.co/react-for-beginners
 https://react-bootstrap.github.io/getting-started/introduction
 
 2. 내용<br>
-
 - 커스텀 훅 참고했던 페이지<br>
 https://levelup.gitconnected.com/react-custom-hook-useaxios-689fe5a12045
