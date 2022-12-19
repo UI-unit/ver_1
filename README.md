@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=05uFo_-SGXU&list=PLZKTXPmaJk8J_fHAzPLH8CJ_HO_M33
 김나영 : https://github.com/KNY-STUDY/ https://kny-study.github.io/voca/<br>
 
 
-## [5~6차] 뉴스 뷰어 UI 만들기  (2022.09.21, 2022.09.28)
+## [5~6차] 뉴스 뷰어 UI 만들기 Ⅰ,Ⅱ(2022.09.21, 2022.09.28)
 1. 과제 <br>
  https://thebook.io/080203/ch14/  <br>
  
@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=05uFo_-SGXU&list=PLZKTXPmaJk8J_fHAzPLH8CJ_HO_M33
 - https://velog.io/@soonmac/React-News-API를-연동하여-뉴스-뷰어-만들기 => 상세 포스팅 
 - https://velog.io/@leehyemimi  => 포스팅
 
-## [7차] 영화 뷰어 UI 만들기 (2022.10.05)
+## [7차] 영화 뷰어 UI 만들기 Ⅰ (2022.10.05)
 
 1. 과제<br>
 https://nomadcoders.co/react-for-beginners
@@ -80,7 +80,7 @@ https://nomadcoders.co/react-for-beginners
 - https://blog.naver.com/tjwls031/222892315703  => 포스팅
 
 
-## [8차] 영화 뷰어 UI 만들기(React Bootstrap 적용) (2022.10.12)
+## [8차] 영화 뷰어 UI 만들기 Ⅱ (React Bootstrap 적용) (2022.10.12)
 1. 과제<br>
 https://react-bootstrap.github.io/getting-started/introduction
 
